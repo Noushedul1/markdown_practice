@@ -4,7 +4,7 @@
 ### farhad islam 
 #### country
 ##### nature
-###### code 
+###### cod 
 
 <!-- italic  -->
 *hello noushed* hello akib
